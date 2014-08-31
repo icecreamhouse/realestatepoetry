@@ -1,7 +1,9 @@
 .picture{
 	width=50px;
 }
-
+body {
+	background-color:grey;
+}
 
 .centre_block {
 	text-align:center;
