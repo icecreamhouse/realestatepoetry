@@ -20,8 +20,11 @@ font-family: Helevetica;
 
 }
 h2 {
-	font-size: 14pt;
+	font-size: 16pt;
 	font-family: Helevetica;
+}
+h3 {
+	font-size: 14pt;
 }
 .picture2{
 	width:50px;
